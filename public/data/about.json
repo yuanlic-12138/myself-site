@@ -1,19 +1,19 @@
 {
   "title": "关于我",
-  "introduction": "这里是陈三合，一个热爱创意和技术的人。",
+  "introduction": "这里是陈三合,runic，一个热爱创意和技术的人。",
   "description": "我喜欢用乐高积木的方式思考问题，把复杂的事情分解成简单的模块，然后重新组合成更有趣的东西。",
   "skills": [
     {
-      "category": "前端开发",
+      "category": "ai前端开发",
       "items": "React, TypeScript, Tailwind CSS"
     },
     {
       "category": "创意设计",
-      "items": "UI/UX, 动效设计"
+      "items": "UI/UX, aigc图文视频生成"
     },
     {
       "category": "生活实用",
-      "items": "C1驾照"
+      "items": "C1驾照，英语ab级，计算机一级"
     }
   ]
 }
