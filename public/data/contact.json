@@ -1,0 +1,21 @@
+{
+  "title": "联系我",
+  "description": "有任何问题或想法？欢迎联系我！",
+  "contacts": [
+    {
+      "type": "github",
+      "label": "GitHub",
+      "value": "https://github.com/yuanlic-12138"
+    },
+    {
+      "type": "email",
+      "label": "主要使用",
+      "value": "267489015@qq.com"
+    },
+    {
+      "type": "Email",
+      "label": "Google",
+      "value": "citrus4ee1@gmail.com"
+    }
+  ]
+}

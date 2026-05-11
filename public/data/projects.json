@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "title": "乐高个人主页",
+    "description": "你正在看的这个网站！使用 React + TypeScript + Tailwind CSS + Framer Motion 构建的乐高风格个人主页。",
+    "tech": ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Vite"],
+    "tags": ["前端", "个人项目"],
+    "images": [],
+    "videos": [],
+    "links": {
+      "github": "https://github.com/yuanlic-12138/myself-site",
+      "live": ""
+    },
+    "createdAt": "2025-05-01T00:00:00.000Z",
+    "updatedAt": "2025-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "AIGC电商带货 - 红色地毯",
+    "description": "AI生成的电商带货短视频，展示红色地毯产品，突出喜庆氛围与家居搭配效果。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "家居"],
+    "images": [],
+    "videos": ["/uploads/videos/2025-01-21-红色地毯.mp4"],
+    "links": {},
+    "createdAt": "2025-01-21T00:00:00.000Z",
+    "updatedAt": "2025-01-21T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "AIGC电商带货 - 平安喜乐红地垫",
+    "description": "AI生成的电商带货短视频，展示平安喜乐红地垫，新年主题场景化产品推广。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "家居"],
+    "images": [],
+    "videos": ["/uploads/videos/2025-01-27-平安喜乐红地垫.mp4"],
+    "links": {},
+    "createdAt": "2025-01-27T00:00:00.000Z",
+    "updatedAt": "2025-01-27T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "AIGC电商带货 - 碗碟沥水架",
+    "description": "AI生成的电商带货短视频，展示厨房碗碟沥水架，突出收纳功能与实用设计。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "厨房"],
+    "images": [],
+    "videos": ["/uploads/videos/2025-01-29-碗碟沥水架.mp4"],
+    "links": {},
+    "createdAt": "2025-01-29T00:00:00.000Z",
+    "updatedAt": "2025-01-29T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "AIGC电商带货 - 对联胶",
+    "description": "AI生成的电商带货短视频，展示春节对联专用胶水，年货场景实用小物推广。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "年货"],
+    "images": [],
+    "videos": ["/uploads/videos/2025-01-30-对联胶.mp4"],
+    "links": {},
+    "createdAt": "2025-01-30T00:00:00.000Z",
+    "updatedAt": "2025-01-30T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "title": "AIGC电商带货 - 裤架",
+    "description": "AI生成的电商带货短视频，展示多功能裤架，省空间收纳神器。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "收纳"],
+    "images": [],
+    "videos": [
+      "/uploads/videos/2025-02-04-裤架1.mp4",
+      "/uploads/videos/2025-02-04-裤架2.mp4"
+    ],
+    "links": {},
+    "createdAt": "2025-02-04T00:00:00.000Z",
+    "updatedAt": "2025-02-04T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "title": "AIGC电商带货 - 调料品置物架",
+    "description": "AI生成的电商带货短视频，展示厨房调料品置物架，多层收纳整洁有序。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "厨房"],
+    "images": [],
+    "videos": ["/uploads/videos/2025-02-05-调料品置物架.mp4"],
+    "links": {},
+    "createdAt": "2025-02-05T00:00:00.000Z",
+    "updatedAt": "2025-02-05T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "title": "AIGC电商带货 - 玄关地毯",
+    "description": "AI生成的电商带货短视频，展示玄关入户地毯，多场景搭配进门第一眼的仪式感。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "家居"],
+    "images": [],
+    "videos": [
+      "/uploads/videos/2025-02-06-玄关地毯1.mp4",
+      "/uploads/videos/2025-02-06-玄关地毯2.mp4",
+      "/uploads/videos/2025-02-06-玄关地毯3.mp4",
+      "/uploads/videos/2025-02-06-玄关地毯4.mp4"
+    ],
+    "links": {},
+    "createdAt": "2025-02-06T00:00:00.000Z",
+    "updatedAt": "2025-02-06T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "title": "AIGC电商带货 - 红酒杯架",
+    "description": "AI生成的电商带货短视频，展示红酒杯架，精致生活酒具收纳方案。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "家居"],
+    "images": [],
+    "videos": ["/uploads/videos/2025-02-11-红酒杯架.mp4"],
+    "links": {},
+    "createdAt": "2025-02-11T00:00:00.000Z",
+    "updatedAt": "2025-02-11T00:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "title": "AIGC电商带货 - 科学实验",
+    "description": "AI生成的电商带货短视频，展示儿童科学实验套装，寓教于乐亲子互动产品。",
+    "tech": ["AIGC", "AI视频生成"],
+    "tags": ["电商", "AIGC", "玩具", "教育"],
+    "images": [],
+    "videos": [
+      "/uploads/videos/2025-02-11-科学实验1.mp4",
+      "/uploads/videos/2025-02-11-科学实验2.mp4",
+      "/uploads/videos/2025-02-11-科学实验3.mp4",
+      "/uploads/videos/2025-02-11-科学实验4.mp4",
+      "/uploads/videos/2025-02-11-科学实验5.mp4",
+      "/uploads/videos/2025-02-11-科学实验6.mp4"
+    ],
+    "links": {},
+    "createdAt": "2025-02-11T00:00:00.000Z",
+    "updatedAt": "2025-02-11T00:00:00.000Z"
+  },
+  {
+    "id": "11",
+    "title": "抖音直播AI助手 (DouyinLiveHelper)",
+    "description": "基于 AI 的抖音直播间智能回复工具。通过 WebSocket 实时获取弹幕，调用 AI 自动生成回复，支持三种工作模式（人工/自动全部/关键词触发），具备智能过滤、人类化模拟、数据复盘等功能。",
+    "tech": ["Node.js", "Express", "WebSocket", "Playwright", "SQLite", "OpenAI API"],
+    "tags": ["开源", "AI", "直播", "自动化"],
+    "images": [],
+    "videos": ["/uploads/videos/抖音直播助手小讲解.mp4"],
+    "links": {
+      "github": "https://github.com/yuanlic-12138/DouyinLiveHelper"
+    },
+    "createdAt": "2025-03-01T00:00:00.000Z",
+    "updatedAt": "2025-03-01T00:00:00.000Z"
+  }
+]
